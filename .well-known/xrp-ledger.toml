@@ -1,0 +1,24 @@
+[[ISSUERS]]
+address = "rLja6KmEhFx4HsvmxA1pmGyn1Kg3udNrvA"
+name = "BBLACK"
+
+[[TOKENS]]
+issuer = "rLja6KmEhFx4HsvmxA1pmGyn1Kg3udNrvA"
+currency = "BBLACK"
+name = "BBLACK"
+desc = "BBLACK"
+icon = "https://xumm.app/assets/icons/currencies/ex-csc-3.png"
+
+[[TOKENS.WEBLINKS]]
+url = "https://youtube.com"
+type = "website"
+title = "Official Website"
+
+[[TOKENS.WEBLINKS]]
+url = "https://google.com"
+type = "website"
+title = "Token Info Dashboard"
+
+[[TOKENS.WEBLINKS]]
+url = "https://twitter.com"
+type = "socialmedia"
